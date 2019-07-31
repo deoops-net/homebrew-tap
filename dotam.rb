@@ -4,7 +4,7 @@
 class Dotam < Formula
   desc "a tool for pipline locally"
   homepage ""
-  url "https://github.com/deoops-net/dotam/releases/download/v0.1.3/dotam_0.1.3_Darwin_x86_64.tar.gz"
+  url "https://github.com/deoops-net/dotam/releases/download/v0.1.4/dotam_0.1.4_Darwin_x86_64.tar.gz"
   sha256 "30ae7a977cd2a265660934e188876aec70b51d1971de951803878733565078c0"
 
 
