@@ -5,7 +5,7 @@ class Dotam < Formula
   desc "a tool for pipline locally"
   homepage ""
   url "https://github.com/deoops-net/dotam/releases/download/v0.1.41/dotam_0.1.41_Darwin_x86_64.tar.gz"
-  sha256 "30ae7a977cd2a265660934e188876aec70b51d1971de951803878733565078c0"
+  sha256 "dfe51a4baf09c437354c44386eb8b23f2cb6522a61df0930d9f425b69649f925"
 
 
   def install
