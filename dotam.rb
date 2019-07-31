@@ -7,7 +7,6 @@ class Dotam < Formula
   url "https://github.com/deoops-net/dotam/releases/download/v0.1.41/dotam_0.1.41_Darwin_x86_64.tar.gz"
   sha256 "dfe51a4baf09c437354c44386eb8b23f2cb6522a61df0930d9f425b69649f925"
 
-
   def install
     bin.install "dotam"
   end
